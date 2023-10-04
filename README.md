@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahdi Karimian
-- 👀 I’m interested in games, programming and creating 
+- 👀 I’m interested in programming, games and creating of any kind
 - 🌱 I’m currently learning Java Script
 
 <!---
